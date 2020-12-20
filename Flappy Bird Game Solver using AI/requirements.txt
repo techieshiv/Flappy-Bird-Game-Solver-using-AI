@@ -1,0 +1,5 @@
+1) numpy
+2) pygame
+3) neat-python
+4) graphviz
+5) matplotlib
